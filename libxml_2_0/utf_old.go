@@ -1,0 +1,12 @@
+package libxml_2_0
+
+import _ "unsafe"
+
+const UHIDEOBSOLETEUTFOLDH = 0
+const UTFSIZE = 16
+const UTF8ERRORVALUE1 = 0x15
+const UTF8ERRORVALUE2 = 0x9f
+const UTFERRORVALUE = 0xffff
+const UTF8MAXCHARLENGTH = 4
+const UTF16MAXCHARLENGTH = 2
+const UTF32MAXCHARLENGTH = 1

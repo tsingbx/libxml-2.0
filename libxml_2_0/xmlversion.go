@@ -1,0 +1,9 @@
+package libxml_2_0
+
+import _ "unsafe"
+
+const LIBXMLDOTTEDVERSION = "2.13.5"
+const LIBXMLVERSION = 21305
+const LIBXMLVERSIONSTRING = "21305"
+const LIBXMLVERSIONEXTRA = ""
+const LIBXMLMODULEEXTENSION = ".so"
